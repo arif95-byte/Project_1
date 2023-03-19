@@ -1,0 +1,7 @@
+echo "# Roller-Coaster" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:arif95-byte/http://localhost:8888/notebooks/Roller%20Coaster.ipynb
+git push -u origin main
